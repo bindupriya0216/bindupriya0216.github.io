@@ -304,9 +304,10 @@ p {
 .project-grid {
   display: grid;
   max-width: 1180px;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 680px);
   gap: 1rem;
   margin: 0 auto;
+  justify-content: start;
 }
 
 .project-card {

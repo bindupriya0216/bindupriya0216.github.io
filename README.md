@@ -11,9 +11,12 @@ Current public details used in the site:
 - LinkedIn: https://www.linkedin.com/in/bindupriya-karedla-382b31293
 - Email: bindupriya.nvarapu@gmail.com
 
-The project cards currently point to recommended future portfolio repositories. Create those repositories when you start building the automation projects:
+The portfolio currently highlights the completed Playwright project:
 
 - `playwright-ecommerce-tests`
+
+Future projects can be added after they are implemented:
+
 - `playwright-api-ui-framework`
 - `playwright-github-actions-ci`
 
