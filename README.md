@@ -11,14 +11,11 @@ Current public details used in the site:
 - LinkedIn: https://www.linkedin.com/in/bindupriya-karedla-382b31293
 - Email: bindupriya.nvarapu@gmail.com
 
-The portfolio currently highlights the completed Playwright project:
+The portfolio currently highlights these public QA/testing projects:
 
 - `playwright-ecommerce-tests`
-
-Future projects can be added after they are implemented:
-
-- `playwright-api-ui-framework`
-- `playwright-github-actions-ci`
+- `postman-api-regression-pack`
+- `playwright-tests`
 
 ## Publish on GitHub Pages
 
