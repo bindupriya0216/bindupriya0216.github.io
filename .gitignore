@@ -6,5 +6,6 @@ coverage/
 playwright-report/
 test-results/
 playwright-ecommerce-tests/
+ai-job-agent/
 .env
 .env.*

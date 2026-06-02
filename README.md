@@ -44,4 +44,4 @@ Current projects shown on the portfolio:
    - Playwright and TypeScript automation framework with Page Object Model, API testing, reports, and CI/CD.
 
 4. `ai-job-agent`
-   - TypeScript project using Playwright test tooling around a job-agent workflow.
+   - Playwright job discovery assistant that scrapes and ranks QA job listings from Seek NZ.
