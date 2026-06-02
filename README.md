@@ -16,6 +16,7 @@ The portfolio currently highlights these public QA/testing projects:
 - `playwright-ecommerce-tests`
 - `postman-api-regression-pack`
 - `playwright-tests`
+- `ai-job-agent`
 
 ## Publish on GitHub Pages
 
@@ -29,18 +30,18 @@ The portfolio currently highlights these public QA/testing projects:
 
 Open `index.html` in a browser. No build step is required.
 
-## Project Roadmap
+## Project Notes
 
-Build the projects in this order:
+Current projects shown on the portfolio:
 
 1. `playwright-ecommerce-tests`
-   - Goal: show end-to-end browser automation.
-   - Include: login, product search, add to cart, checkout, order confirmation, reports, screenshots, and traces.
+   - End-to-end Playwright ecommerce automation with cross-browser runs, reports, traces, and GitHub Actions.
 
-2. `playwright-api-ui-framework`
-   - Goal: show stronger SDET-style testing.
-   - Include: API setup, UI verification, environment config, positive tests, negative tests, and reusable fixtures.
+2. `postman-api-regression-pack`
+   - Postman API regression pack covering CRUD, authentication, request chaining, and negative tests.
 
-3. `playwright-github-actions-ci`
-   - Goal: show CI/CD automation skills.
-   - Include: GitHub Actions workflow, cross-browser test runs, uploaded Playwright report, test artifacts, and README instructions.
+3. `playwright-tests`
+   - Playwright and TypeScript automation framework with Page Object Model, API testing, reports, and CI/CD.
+
+4. `ai-job-agent`
+   - TypeScript project using Playwright test tooling around a job-agent workflow.
